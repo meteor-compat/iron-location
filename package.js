@@ -2,7 +2,7 @@ Package.describe({
   name: 'iron:location',
   summary: 'Reactive urls that work in IE8/9 and modern browsers.',
   version: '1.1.0',
-  git: 'https://github.com/eventedmind/iron-location.git'
+  git: 'https://github.com/meteor-compat/iron-location.git'
 });
 
 Package.onUse(function (api) {
